@@ -1,0 +1,209 @@
+Termination signal received, waiting for ongoing threads to complete.
+All threads have terminated, server shutting down.
+Executing with parameters:
+-i p2p-Gnutella31.txt
+-p 6005
+-o log.txt
+-s 4
+-x 6
+-r 2
+Loading graph...
+Graph loaded in 3.7 seconds with 62586 nodes and 147891 edges.
+A pool of 4 threads has been created
+Thread #1: waiting for connection
+Thread #2: waiting for connection
+Thread #0: waiting for connection
+Thread #3: waiting for connection
+Termination signal received, waiting for ongoing threads to complete.
+All threads have terminated, server shutting down.
+Executing with parameters:
+-i p2p-Gnutella31.txt
+-p 6005
+-o log.txt
+-s 4
+-x 6
+-r 2
+Loading graph...
+Graph loaded in 3.7 seconds with 62586 nodes and 147892 edges.
+A pool of 4 threads has been created
+Thread #0: waiting for connection
+Thread #1: waiting for connection
+Thread #2: waiting for connection
+Thread #3: waiting for connection
+A connection has been delegated to thread id #0, system load 25.0%
+Thread #0: searching database for a path from node 0 to node 999
+Thread #0: no path in database, calculating 0->999
+Thread #0: path calculated: 0->7->5577->4611->1792->3755->22506->273->276->999
+Thread #0: responding to client and adding path to database
+A connection has been delegated to thread id #1, system load 50.0%
+Thread #1: searching database for a path from node 0 to node 999
+Thread #1: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+A connection has been delegated to thread id #2, system load 75.0%
+Thread #2: searching database for a path from node 0 to node 999
+System load 75.0%, pool extended to 5 threads
+Thread #4: waiting for connection
+Thread #2: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+A connection has been delegated to thread id #3, system load 80.0%
+System load 80.0%, pool extended to 6 threads
+Thread #5: waiting for connection
+Thread #3: searching database for a path from node 0 to node 999
+Thread #3: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+A connection has been delegated to thread id #4, system load 83.3%
+Thread #4: searching database for a path from node 0 to node 999
+Thread #4: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+A connection has been delegated to thread id #5, system load 100.0%
+Thread #5: searching database for a path from node 0 to node 999
+Thread #5: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+No thread is available! Waiting for one.
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0, system load 100.0%
+Thread #0: searching database for a path from node 0 to node 999
+Thread #0: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+No thread is available! Waiting for one.
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1, system load 100.0%
+Thread #1: searching database for a path from node 0 to node 999
+Thread #1: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+No thread is available! Waiting for one.
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2, system load 100.0%
+Thread #2: searching database for a path from node 0 to node 999
+Thread #2: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+Thread #3: waiting for connection
+Thread #4: waiting for connection
+Thread #5: waiting for connection
+A connection has been delegated to thread id #3, system load 66.7%
+Thread #3: searching database for a path from node 0 to node 9
+Thread #3: no path in database, calculating 0->9
+Thread #3: path calculated: 0->9
+Thread #3: responding to client and adding path to database
+A connection has been delegated to thread id #4, system load 83.3%
+Thread #4: searching database for a path from node 0 to node 9
+Thread #4: path found in database: 0->9
+Thread #0: waiting for connection
+Thread #1: waiting for connection
+Thread #2: waiting for connection
+A connection has been delegated to thread id #0, system load 50.0%
+Thread #0: searching database for a path from node 0 to node 9
+Thread #0: path found in database: 0->9
+A connection has been delegated to thread id #1, system load 66.7%
+Thread #1: searching database for a path from node 0 to node 9
+Thread #1: path found in database: 0->9
+A connection has been delegated to thread id #2, system load 83.3%
+Thread #2: searching database for a path from node 0 to node 9
+Thread #2: path found in database: 0->9
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3, system load 83.3%
+Thread #3: searching database for a path from node 0 to node 9
+Thread #3: path found in database: 0->9
+A connection has been delegated to thread id #5, system load 100.0%
+Thread #5: searching database for a path from node 0 to node 9
+Thread #5: path found in database: 0->9
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4, system load 100.0%
+Thread #4: searching database for a path from node 0 to node 9
+Thread #4: path found in database: 0->9
+No thread is available! Waiting for one.
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0, system load 100.0%
+Thread #0: searching database for a path from node 0 to node 9
+Thread #0: path found in database: 0->9
+No thread is available! Waiting for one.
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1, system load 100.0%
+Thread #1: searching database for a path from node 0 to node 9
+Thread #1: path found in database: 0->9
+Thread #2: waiting for connection
+Thread #3: waiting for connection
+Thread #5: waiting for connection
+Thread #4: waiting for connection
+A connection has been delegated to thread id #2, system load 50.0%
+Thread #2: searching database for a path from node 0 to node 98
+Thread #2: no path in database, calculating 0->98
+Thread #2: path calculated: 0->5->317->2443->4051->7685->1210->6285->7150->98
+Thread #2: responding to client and adding path to database
+A connection has been delegated to thread id #3, system load 66.7%
+Thread #3: searching database for a path from node 0 to node 98
+Thread #3: path found in database: 0->5->317->2443->4051->7685->1210->6285->7150->98
+A connection has been delegated to thread id #4, system load 83.3%
+Thread #4: searching database for a path from node 0 to node 98
+Thread #4: path found in database: 0->5->317->2443->4051->7685->1210->6285->7150->98
+A connection has been delegated to thread id #5, system load 100.0%
+Thread #5: searching database for a path from node 0 to node 98
+Thread #5: path found in database: 0->5->317->2443->4051->7685->1210->6285->7150->98
+No thread is available! Waiting for one.
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0, system load 100.0%
+Thread #0: searching database for a path from node 0 to node 98
+Thread #0: path found in database: 0->5->317->2443->4051->7685->1210->6285->7150->98
+No thread is available! Waiting for one.
+Thread #1: waiting for connection
+A connection has been delegated to thread id #1, system load 100.0%
+Thread #1: searching database for a path from node 0 to node 98
+Thread #1: path found in database: 0->5->317->2443->4051->7685->1210->6285->7150->98
+No thread is available! Waiting for one.
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2, system load 100.0%
+Thread #2: searching database for a path from node 0 to node 98
+Thread #2: path found in database: 0->5->317->2443->4051->7685->1210->6285->7150->98
+No thread is available! Waiting for one.
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3, system load 100.0%
+Thread #3: searching database for a path from node 0 to node 98
+Thread #3: path found in database: 0->5->317->2443->4051->7685->1210->6285->7150->98
+Thread #4: waiting for connection
+Thread #5: waiting for connection
+A connection has been delegated to thread id #4, system load 83.3%
+Thread #4: searching database for a path from node 0 to node 98
+Thread #4: path found in database: 0->5->317->2443->4051->7685->1210->6285->7150->98
+Thread #0: waiting for connection
+Thread #1: waiting for connection
+A connection has been delegated to thread id #0, system load 66.7%
+Thread #0: searching database for a path from node 0 to node 999
+Thread #0: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+A connection has been delegated to thread id #1, system load 83.3%
+Thread #1: searching database for a path from node 0 to node 999
+Thread #1: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+A connection has been delegated to thread id #5, system load 100.0%
+Thread #5: searching database for a path from node 0 to node 999
+Thread #5: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+Thread #2: waiting for connection
+A connection has been delegated to thread id #2, system load 100.0%
+Thread #2: searching database for a path from node 0 to node 999
+Thread #2: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+Thread #3: waiting for connection
+A connection has been delegated to thread id #3, system load 100.0%
+Thread #3: searching database for a path from node 0 to node 999
+Thread #3: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+No thread is available! Waiting for one.
+Thread #4: waiting for connection
+A connection has been delegated to thread id #4, system load 100.0%
+Thread #4: searching database for a path from node 0 to node 999
+Thread #4: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+No thread is available! Waiting for one.
+Thread #0: waiting for connection
+A connection has been delegated to thread id #0, system load 100.0%
+Thread #0: searching database for a path from node 0 to node 999
+Thread #0: path found in database: 0->7->5577->4611->1792->3755->22506->273->276->999
+Thread #1: waiting for connection
+Thread #5: waiting for connection
+Thread #2: waiting for connection
+Thread #3: waiting for connection
+Thread #4: waiting for connection
+Thread #0: waiting for connection
+Termination signal received, waiting for ongoing threads to complete.
+All threads have terminated, server shutting down.
+Executing with parameters:
+-i p2p-Gnutella31.txt
+-p 6005
+-o log.txt
+-s 4
+-x 6
+-r 2
+Loading graph...
+Graph loaded in 3.7 seconds with 62586 nodes and 147892 edges.
+A pool of 4 threads has been created
+Thread #0: waiting for connection
+Thread #2: waiting for connection
+Thread #1: waiting for connection
+Thread #3: waiting for connection
